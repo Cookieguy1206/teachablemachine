@@ -1,0 +1,3 @@
+0 Mouses
+1 Keyboards
+2 Other
